@@ -26,6 +26,7 @@ npm run build
 pnpm install
 pnpm run build
 ```
+**也可以直接下载dist文件夹**
 
 ### 2. 加载到 Chrome
 
